@@ -1,0 +1,254 @@
+tc117
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_ano-rcc-vtzp.jl
+tpsci_ano-rcc-vtzp.jl.out
+/home/arnab22/FermiCG-data/bimetallics/data_fe2_morokuma
+/localscratch/1686370
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 129 bytes  received 35 bytes  109.33 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 1,746 bytes  received 35 bytes  3,562.00 bytes/sec
+total size is 1,613  speedup is 0.91
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 2,259 bytes  received 35 bytes  4,588.00 bytes/sec
+total size is 2,126  speedup is 0.93
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 2,836 bytes  received 35 bytes  5,742.00 bytes/sec
+total size is 2,703  speedup is 0.94
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 2,703  speedup is 27.58
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 191,286 bytes  received 35 bytes  382,642.00 bytes/sec
+total size is 191,118  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 192,248 bytes  received 35 bytes  384,566.00 bytes/sec
+total size is 192,080  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 192,826 bytes  received 35 bytes  385,722.00 bytes/sec
+total size is 192,657  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 192,657  speedup is 1,965.89
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 281,751 bytes  received 35 bytes  563,572.00 bytes/sec
+total size is 281,558  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 287,568 bytes  received 35 bytes  575,206.00 bytes/sec
+total size is 287,375  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,375  speedup is 2,932.40
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,375  speedup is 2,932.40
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,375  speedup is 2,932.40
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,375  speedup is 2,932.40
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 287,667 bytes  received 35 bytes  575,404.00 bytes/sec
+total size is 287,474  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,474  speedup is 2,933.41
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,474  speedup is 2,933.41
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,474  speedup is 2,933.41
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,474  speedup is 2,933.41
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 287,474  speedup is 2,933.41
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 291,983 bytes  received 35 bytes  584,036.00 bytes/sec
+total size is 291,791  speedup is 1.00
+sending incremental file list
+
+sent 85 bytes  received 12 bytes  194.00 bytes/sec
+total size is 291,791  speedup is 3,008.15
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 295,326 bytes  received 35 bytes  590,722.00 bytes/sec
+total size is 295,125  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 295,125  speedup is 3,011.48
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 296,606 bytes  received 35 bytes  197,760.67 bytes/sec
+total size is 296,406  speedup is 1.00
+sending incremental file list
+
+sent 85 bytes  received 12 bytes  194.00 bytes/sec
+total size is 296,406  speedup is 3,055.73
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 296,726 bytes  received 35 bytes  593,522.00 bytes/sec
+total size is 296,525  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 298,797 bytes  received 35 bytes  597,664.00 bytes/sec
+total size is 298,597  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 299,342 bytes  received 35 bytes  598,754.00 bytes/sec
+total size is 299,141  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 299,141  speedup is 3,052.46
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 300,638 bytes  received 35 bytes  601,346.00 bytes/sec
+total size is 300,437  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 301,698 bytes  received 35 bytes  603,466.00 bytes/sec
+total size is 301,497  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 302,666 bytes  received 35 bytes  605,402.00 bytes/sec
+total size is 302,466  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,461 bytes  received 35 bytes  610,992.00 bytes/sec
+total size is 305,260  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,260  speedup is 3,114.90
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,854 bytes  received 35 bytes  611,778.00 bytes/sec
+total size is 305,653  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,865 bytes  received 35 bytes  611,800.00 bytes/sec
+total size is 305,664  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,878 bytes  received 35 bytes  203,942.00 bytes/sec
+total size is 305,678  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,892 bytes  received 35 bytes  611,854.00 bytes/sec
+total size is 305,692  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,907 bytes  received 35 bytes  611,884.00 bytes/sec
+total size is 305,706  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,919 bytes  received 35 bytes  611,908.00 bytes/sec
+total size is 305,718  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,929 bytes  received 35 bytes  611,928.00 bytes/sec
+total size is 305,728  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,935 bytes  received 35 bytes  611,940.00 bytes/sec
+total size is 305,734  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,937 bytes  received 35 bytes  611,944.00 bytes/sec
+total size is 305,736  speedup is 1.00
+sending incremental file list
+
+sent 86 bytes  received 12 bytes  196.00 bytes/sec
+total size is 305,736  speedup is 3,119.76
+sending incremental file list
+tpsci_ano-rcc-vtzp.jl.out
+
+sent 305,938 bytes  received 35 bytes  203,982.00 bytes/sec
+total size is 305,737  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy

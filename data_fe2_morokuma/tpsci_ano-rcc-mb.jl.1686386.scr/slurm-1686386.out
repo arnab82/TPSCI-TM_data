@@ -1,0 +1,490 @@
+tc045
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_ano-rcc-mb.jl
+tpsci_ano-rcc-mb.jl.out
+/home/arnab22/FermiCG-data/bimetallics/data_fe2_morokuma
+/localscratch/1686386
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 127 bytes  received 35 bytes  324.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 116,074 bytes  received 35 bytes  232,218.00 bytes/sec
+total size is 115,924  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 126,567 bytes  received 35 bytes  253,204.00 bytes/sec
+total size is 126,416  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 127,219 bytes  received 35 bytes  254,508.00 bytes/sec
+total size is 127,069  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 131,647 bytes  received 35 bytes  263,364.00 bytes/sec
+total size is 131,488  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 132,933 bytes  received 35 bytes  265,936.00 bytes/sec
+total size is 132,775  speedup is 1.00
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 132,775  speedup is 1,397.63
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 132,775  speedup is 1,397.63
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 132,775  speedup is 1,397.63
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 132,775  speedup is 1,397.63
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 133,055 bytes  received 35 bytes  266,180.00 bytes/sec
+total size is 132,896  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 132,896  speedup is 1,384.33
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 132,896  speedup is 1,384.33
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 133,851 bytes  received 35 bytes  267,772.00 bytes/sec
+total size is 133,692  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 136,164 bytes  received 35 bytes  272,398.00 bytes/sec
+total size is 136,005  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 136,448 bytes  received 35 bytes  272,966.00 bytes/sec
+total size is 136,289  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 136,872 bytes  received 35 bytes  273,814.00 bytes/sec
+total size is 136,713  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 137,416 bytes  received 35 bytes  274,902.00 bytes/sec
+total size is 137,258  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 138,605 bytes  received 35 bytes  277,280.00 bytes/sec
+total size is 138,446  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,446  speedup is 1,442.15
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,446  speedup is 1,442.15
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,446  speedup is 1,442.15
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,446  speedup is 1,442.15
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 138,705 bytes  received 35 bytes  277,480.00 bytes/sec
+total size is 138,546  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 138,546  speedup is 1,443.19
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 138,825 bytes  received 35 bytes  277,720.00 bytes/sec
+total size is 138,667  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 139,621 bytes  received 35 bytes  279,312.00 bytes/sec
+total size is 139,462  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 140,757 bytes  received 35 bytes  281,584.00 bytes/sec
+total size is 140,598  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 141,507 bytes  received 35 bytes  94,361.33 bytes/sec
+total size is 141,349  speedup is 1.00
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 141,349  speedup is 1,487.88
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 141,349  speedup is 1,487.88
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 141,933 bytes  received 35 bytes  283,936.00 bytes/sec
+total size is 141,774  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 143,616 bytes  received 35 bytes  287,302.00 bytes/sec
+total size is 143,457  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 143,666 bytes  received 35 bytes  287,402.00 bytes/sec
+total size is 143,508  speedup is 1.00
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 143,508  speedup is 1,510.61
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 143,764 bytes  received 35 bytes  287,598.00 bytes/sec
+total size is 143,605  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 143,605  speedup is 1,495.89
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 143,605  speedup is 1,495.89
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 143,605  speedup is 1,495.89
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 144,680 bytes  received 35 bytes  96,476.67 bytes/sec
+total size is 144,521  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 145,674 bytes  received 35 bytes  291,418.00 bytes/sec
+total size is 145,515  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 145,957 bytes  received 35 bytes  291,984.00 bytes/sec
+total size is 145,799  speedup is 1.00
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 145,799  speedup is 1,534.73
+sending incremental file list
+
+sent 83 bytes  received 12 bytes  190.00 bytes/sec
+total size is 145,799  speedup is 1,534.73
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 146,383 bytes  received 35 bytes  292,836.00 bytes/sec
+total size is 146,224  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 146,928 bytes  received 35 bytes  293,926.00 bytes/sec
+total size is 146,769  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 149,341 bytes  received 35 bytes  298,752.00 bytes/sec
+total size is 149,182  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 149,713 bytes  received 35 bytes  299,496.00 bytes/sec
+total size is 149,554  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  64.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 149,554  speedup is 1,557.85
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,110 bytes  received 35 bytes  300,290.00 bytes/sec
+total size is 149,951  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,114 bytes  received 35 bytes  300,298.00 bytes/sec
+total size is 149,956  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,124 bytes  received 35 bytes  300,318.00 bytes/sec
+total size is 149,965  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,143 bytes  received 35 bytes  300,356.00 bytes/sec
+total size is 149,985  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,149 bytes  received 35 bytes  300,368.00 bytes/sec
+total size is 149,991  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,156 bytes  received 35 bytes  300,382.00 bytes/sec
+total size is 149,998  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,167 bytes  received 35 bytes  300,404.00 bytes/sec
+total size is 150,008  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,186 bytes  received 35 bytes  100,147.33 bytes/sec
+total size is 150,027  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,192 bytes  received 35 bytes  300,454.00 bytes/sec
+total size is 150,033  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,194 bytes  received 35 bytes  300,458.00 bytes/sec
+total size is 150,035  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,204 bytes  received 35 bytes  300,478.00 bytes/sec
+total size is 150,045  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,212 bytes  received 35 bytes  300,494.00 bytes/sec
+total size is 150,053  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 150,214 bytes  received 35 bytes  300,498.00 bytes/sec
+total size is 150,055  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy

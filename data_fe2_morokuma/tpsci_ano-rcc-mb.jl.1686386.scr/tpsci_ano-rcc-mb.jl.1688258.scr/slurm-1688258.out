@@ -1,0 +1,66 @@
+tc268
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_ano-rcc-mb.jl
+tpsci_ano-rcc-mb.jl.out
+/home/arnab22/FermiCG-data/bimetallics/data_fe2_morokuma/tpsci_ano-rcc-mb.jl.1686386.scr
+/localscratch/1688258
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 127 bytes  received 35 bytes  324.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 117,866 bytes  received 35 bytes  235,802.00 bytes/sec
+total size is 117,715  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 134,114 bytes  received 35 bytes  268,298.00 bytes/sec
+total size is 133,955  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 139,056 bytes  received 35 bytes  278,182.00 bytes/sec
+total size is 138,898  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 144,010 bytes  received 35 bytes  96,030.00 bytes/sec
+total size is 143,852  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 148,548 bytes  received 35 bytes  297,166.00 bytes/sec
+total size is 148,389  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 153,834 bytes  received 35 bytes  307,738.00 bytes/sec
+total size is 153,675  speedup is 1.00
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 153,675  speedup is 1,600.78
+sending incremental file list
+
+sent 84 bytes  received 12 bytes  192.00 bytes/sec
+total size is 153,675  speedup is 1,600.78
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 154,245 bytes  received 35 bytes  308,560.00 bytes/sec
+total size is 154,086  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 154,273 bytes  received 35 bytes  308,616.00 bytes/sec
+total size is 154,114  speedup is 1.00
+sending incremental file list
+tpsci_ano-rcc-mb.jl.out
+
+sent 154,302 bytes  received 35 bytes  308,674.00 bytes/sec
+total size is 154,143  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy
