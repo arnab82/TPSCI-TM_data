@@ -6,11 +6,11 @@ using RDM
 using JLD2
 
 
-@load "/home/arnab22/FermiCG-data/bimetallics/data_cr2_morokuma/data_cmf_cr2_ano-rcc-vdz.jld2"
+@load "/home/arnabbachhar/workspace/FermiCG-data/bimetallics/cr2_morokuma/26_3d4d_2p3p_3d4d/data_cmf_cr2_ano-rcc-mb.jld2"
 
 M = 100 
 
-init_fspace = FockConfig([(5,2), (3,3), (2,5)])
+init_fspace = FockConfig([(5,0), (3,3), (0,5)])
 
 cluster_bases = FermiCG.compute_cluster_eigenbasis_spin(ints, clusters, d1, [3,3,3], init_fspace, max_roots=M, verbose=1);
 
@@ -29,7 +29,7 @@ ci_vector = FermiCG.add_spin_focksectors(ci_vector)
 eci, v = FermiCG.tps_ci_direct(ci_vector, cluster_ops, clustered_ham);
 
 e0a, v0a = FermiCG.tpsci_ci(ci_vector, cluster_ops, clustered_ham, incremental=true,
-                            thresh_cipsi = 5e-5, 
+                            thresh_cipsi = 4e-4, 
                             thresh_foi   = 1e-6,
                             thresh_asci  = -1);
 
