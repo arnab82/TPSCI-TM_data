@@ -1,0 +1,1133 @@
+ Input energy:    -3343.93008922
+IDX001:DIM1048576:001|002|003|004|005|006|007|008|009|010|
+IDX002:DIM1048576:011|012|013|014|015|016|017|018|019|020|
+IDX003:DIM4096:021|022|023|024|025|026|
+IDX004:DIM4096:027|028|029|030|031|032|
+IDX005:DIM4096:033|034|035|036|037|038|
+ Solve OO-CMF with newton
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+Overwritten attributes  conv_tol_residual  of <class 'pyscf.fci.direct_spin1.FCISolver'>
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.79363296
+ MOCluster   2 E =-56.78779182
+ MOCluster   3 E =-50.34859854
+ MOCluster   4 E =-50.31733343
+ MOCluster   5 E =-50.29310374
+ CMF-CI Curr: Elec -170.89663229 Total -3343.89426621
+ CMF-CI Energy: -3343.89426621 | Change: RDM: 7.6e+00 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.67707455
+ MOCluster   2 E =-56.67732200
+ MOCluster   3 E =-50.28686180
+ MOCluster   4 E =-50.28783488
+ MOCluster   5 E =-50.28805587
+ CMF-CI Curr: Elec -171.13805969 Total -3344.13569361
+ CMF-CI Energy: -3344.13569361 | Change: RDM: 7.4e-01 Energy -2.4e-01
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.67678404
+ MOCluster   2 E =-56.67685064
+ MOCluster   3 E =-50.28683910
+ MOCluster   4 E =-50.28782283
+ MOCluster   5 E =-50.28806034
+ CMF-CI Curr: Elec -171.13806497 Total -3344.13569889
+ CMF-CI Energy: -3344.13569889 | Change: RDM: 4.3e-03 Energy -5.3e-06
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.67678379
+ MOCluster   2 E =-56.67684980
+ MOCluster   3 E =-50.28683911
+ MOCluster   4 E =-50.28782282
+ MOCluster   5 E =-50.28806034
+ CMF-CI Curr: Elec -171.13806497 Total -3344.13569889
+ CMF-CI Energy: -3344.13569889 | Change: RDM: 3.3e-06 Energy -5.0e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 5
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.67678379
+ MOCluster   2 E =-56.67684979
+ MOCluster   3 E =-50.28683911
+ MOCluster   4 E =-50.28782282
+ MOCluster   5 E =-50.28806034
+ CMF-CI Curr: Elec -171.13806497 Total -3344.13569889
+ CMF-CI Energy: -3344.13569889 | Change: RDM: 6.1e-09 Energy -2.3e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 6
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.67678379
+ MOCluster   2 E =-56.67684979
+ MOCluster   3 E =-50.28683911
+ MOCluster   4 E =-50.28782282
+ MOCluster   5 E =-50.28806034
+ CMF-CI Curr: Elec -171.13806497 Total -3344.13569889
+ CMF-CI Energy: -3344.13569889 | Change: RDM: 3.7e-12 Energy 0.0e+00
+
+*CMF-CI: Elec -171.13806497 Total -3344.13569889
+ Energy per Iteration:
+ Elec: -170.89663229 Total: -3343.89426621
+ Elec: -171.13805969 Total: -3344.13569361
+ Elec: -171.13806497 Total: -3344.13569889
+ Elec: -171.13806497 Total: -3344.13569889
+ Elec: -171.13806497 Total: -3344.13569889
+ Elec: -171.13806497 Total: -3344.13569889
+ Step:    1 E: -3344.135698894625 G:     8.80e-02 step_size:     7.55e-01 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.10158198
+ MOCluster   2 E =-56.10164330
+ MOCluster   3 E =-50.51313469
+ MOCluster   4 E =-50.51416523
+ MOCluster   5 E =-50.51441660
+ CMF-CI Curr: Elec -171.16109743 Total -3344.15873135
+ CMF-CI Energy: -3344.15873135 | Change: RDM: 4.8e-02 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.10137319
+ MOCluster   2 E =-56.10141935
+ MOCluster   3 E =-50.51310754
+ MOCluster   4 E =-50.51414649
+ MOCluster   5 E =-50.51440149
+ CMF-CI Curr: Elec -171.16109766 Total -3344.15873159
+ CMF-CI Energy: -3344.15873159 | Change: RDM: 6.5e-04 Energy -2.3e-07
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.10137666
+ MOCluster   2 E =-56.10142270
+ MOCluster   3 E =-50.51310768
+ MOCluster   4 E =-50.51414655
+ MOCluster   5 E =-50.51440147
+ CMF-CI Curr: Elec -171.16109766 Total -3344.15873159
+ CMF-CI Energy: -3344.15873159 | Change: RDM: 8.6e-06 Energy -4.9e-11
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.10137665
+ MOCluster   2 E =-56.10142270
+ MOCluster   3 E =-50.51310768
+ MOCluster   4 E =-50.51414655
+ MOCluster   5 E =-50.51440147
+ CMF-CI Curr: Elec -171.16109766 Total -3344.15873159
+ CMF-CI Energy: -3344.15873159 | Change: RDM: 1.3e-08 Energy 0.0e+00
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 5
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.10137665
+ MOCluster   2 E =-56.10142270
+ MOCluster   3 E =-50.51310768
+ MOCluster   4 E =-50.51414655
+ MOCluster   5 E =-50.51440147
+ CMF-CI Curr: Elec -171.16109766 Total -3344.15873159
+ CMF-CI Energy: -3344.15873159 | Change: RDM: 3.4e-11 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16109766 Total -3344.15873159
+ Energy per Iteration:
+ Elec: -171.16109743 Total: -3344.15873135
+ Elec: -171.16109766 Total: -3344.15873159
+ Elec: -171.16109766 Total: -3344.15873159
+ Elec: -171.16109766 Total: -3344.15873159
+ Elec: -171.16109766 Total: -3344.15873159
+ Step:    2 E: -3344.158731586987 G:     2.27e-02 step_size:     7.19e-02 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06880348
+ MOCluster   2 E =-56.06886955
+ MOCluster   3 E =-50.54708751
+ MOCluster   4 E =-50.54813594
+ MOCluster   5 E =-50.54838849
+ CMF-CI Curr: Elec -171.16137051 Total -3344.15900443
+ CMF-CI Energy: -3344.15900443 | Change: RDM: 1.5e-02 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06876200
+ MOCluster   2 E =-56.06882698
+ MOCluster   3 E =-50.54707969
+ MOCluster   4 E =-50.54812969
+ MOCluster   5 E =-50.54838300
+ CMF-CI Curr: Elec -171.16137052 Total -3344.15900444
+ CMF-CI Energy: -3344.15900444 | Change: RDM: 1.8e-04 Energy -1.5e-08
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06876388
+ MOCluster   2 E =-56.06882884
+ MOCluster   3 E =-50.54707978
+ MOCluster   4 E =-50.54812972
+ MOCluster   5 E =-50.54838299
+ CMF-CI Curr: Elec -171.16137052 Total -3344.15900444
+ CMF-CI Energy: -3344.15900444 | Change: RDM: 4.7e-06 Energy -1.5e-11
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06876388
+ MOCluster   2 E =-56.06882884
+ MOCluster   3 E =-50.54707978
+ MOCluster   4 E =-50.54812972
+ MOCluster   5 E =-50.54838299
+ CMF-CI Curr: Elec -171.16137052 Total -3344.15900444
+ CMF-CI Energy: -3344.15900444 | Change: RDM: 5.8e-09 Energy -4.5e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 5
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06876388
+ MOCluster   2 E =-56.06882884
+ MOCluster   3 E =-50.54707978
+ MOCluster   4 E =-50.54812972
+ MOCluster   5 E =-50.54838299
+ CMF-CI Curr: Elec -171.16137052 Total -3344.15900444
+ CMF-CI Energy: -3344.15900444 | Change: RDM: 2.0e-11 Energy 4.5e-13
+
+*CMF-CI: Elec -171.16137052 Total -3344.15900444
+ Energy per Iteration:
+ Elec: -171.16137051 Total: -3344.15900443
+ Elec: -171.16137052 Total: -3344.15900444
+ Elec: -171.16137052 Total: -3344.15900444
+ Elec: -171.16137052 Total: -3344.15900444
+ Elec: -171.16137052 Total: -3344.15900444
+ Step:    3 E: -3344.159004444723 G:     3.69e-03 step_size:     1.12e-02 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06478798
+ MOCluster   2 E =-56.06485799
+ MOCluster   3 E =-50.55188693
+ MOCluster   4 E =-50.55293942
+ MOCluster   5 E =-50.55319255
+ CMF-CI Curr: Elec -171.16137810 Total -3344.15901202
+ CMF-CI Energy: -3344.15901202 | Change: RDM: 2.8e-03 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06478155
+ MOCluster   2 E =-56.06485141
+ MOCluster   3 E =-50.55188567
+ MOCluster   4 E =-50.55293842
+ MOCluster   5 E =-50.55319167
+ CMF-CI Curr: Elec -171.16137810 Total -3344.15901202
+ CMF-CI Energy: -3344.15901202 | Change: RDM: 2.8e-05 Energy -3.6e-10
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06478185
+ MOCluster   2 E =-56.06485171
+ MOCluster   3 E =-50.55188568
+ MOCluster   4 E =-50.55293843
+ MOCluster   5 E =-50.55319167
+ CMF-CI Curr: Elec -171.16137810 Total -3344.15901202
+ CMF-CI Energy: -3344.15901202 | Change: RDM: 7.6e-07 Energy -9.1e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06478185
+ MOCluster   2 E =-56.06485171
+ MOCluster   3 E =-50.55188568
+ MOCluster   4 E =-50.55293843
+ MOCluster   5 E =-50.55319167
+ CMF-CI Curr: Elec -171.16137810 Total -3344.15901202
+ CMF-CI Energy: -3344.15901202 | Change: RDM: 8.9e-10 Energy -9.1e-13
+
+*CMF-CI: Elec -171.16137810 Total -3344.15901202
+ Energy per Iteration:
+ Elec: -171.16137810 Total: -3344.15901202
+ Elec: -171.16137810 Total: -3344.15901202
+ Elec: -171.16137810 Total: -3344.15901202
+ Elec: -171.16137810 Total: -3344.15901202
+ Step:    4 E: -3344.159012021893 G:     1.29e-03 step_size:     1.89e-03 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06419693
+ MOCluster   2 E =-56.06426794
+ MOCluster   3 E =-50.55262920
+ MOCluster   4 E =-50.55368246
+ MOCluster   5 E =-50.55393570
+ CMF-CI Curr: Elec -171.16137866 Total -3344.15901259
+ CMF-CI Energy: -3344.15901259 | Change: RDM: 1.0e-03 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06419583
+ MOCluster   2 E =-56.06426681
+ MOCluster   3 E =-50.55262885
+ MOCluster   4 E =-50.55368217
+ MOCluster   5 E =-50.55393543
+ CMF-CI Curr: Elec -171.16137866 Total -3344.15901259
+ CMF-CI Energy: -3344.15901259 | Change: RDM: 5.7e-06 Energy -1.5e-11
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06419589
+ MOCluster   2 E =-56.06426688
+ MOCluster   3 E =-50.55262886
+ MOCluster   4 E =-50.55368217
+ MOCluster   5 E =-50.55393543
+ CMF-CI Curr: Elec -171.16137866 Total -3344.15901259
+ CMF-CI Energy: -3344.15901259 | Change: RDM: 1.7e-07 Energy -1.8e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06419589
+ MOCluster   2 E =-56.06426688
+ MOCluster   3 E =-50.55262886
+ MOCluster   4 E =-50.55368217
+ MOCluster   5 E =-50.55393543
+ CMF-CI Curr: Elec -171.16137866 Total -3344.15901259
+ CMF-CI Energy: -3344.15901259 | Change: RDM: 1.9e-10 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16137866 Total -3344.15901259
+ Energy per Iteration:
+ Elec: -171.16137866 Total: -3344.15901259
+ Elec: -171.16137866 Total: -3344.15901259
+ Elec: -171.16137866 Total: -3344.15901259
+ Elec: -171.16137866 Total: -3344.15901259
+ Step:    5 E: -3344.159012586532 G:     6.40e-04 step_size:     4.05e-04 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06410521
+ MOCluster   2 E =-56.06417644
+ MOCluster   3 E =-50.55275028
+ MOCluster   4 E =-50.55380370
+ MOCluster   5 E =-50.55405697
+ CMF-CI Curr: Elec -171.16137878 Total -3344.15901270
+ CMF-CI Energy: -3344.15901270 | Change: RDM: 5.2e-04 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06410500
+ MOCluster   2 E =-56.06417623
+ MOCluster   3 E =-50.55275017
+ MOCluster   4 E =-50.55380360
+ MOCluster   5 E =-50.55405688
+ CMF-CI Curr: Elec -171.16137878 Total -3344.15901270
+ CMF-CI Energy: -3344.15901270 | Change: RDM: 1.5e-06 Energy -2.7e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06410502
+ MOCluster   2 E =-56.06417625
+ MOCluster   3 E =-50.55275017
+ MOCluster   4 E =-50.55380360
+ MOCluster   5 E =-50.55405688
+ CMF-CI Curr: Elec -171.16137878 Total -3344.15901270
+ CMF-CI Energy: -3344.15901270 | Change: RDM: 4.7e-08 Energy 1.8e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06410502
+ MOCluster   2 E =-56.06417625
+ MOCluster   3 E =-50.55275017
+ MOCluster   4 E =-50.55380360
+ MOCluster   5 E =-50.55405688
+ CMF-CI Curr: Elec -171.16137878 Total -3344.15901270
+ CMF-CI Energy: -3344.15901270 | Change: RDM: 5.4e-11 Energy 4.5e-13
+
+*CMF-CI: Elec -171.16137878 Total -3344.15901270
+ Energy per Iteration:
+ Elec: -171.16137878 Total: -3344.15901270
+ Elec: -171.16137878 Total: -3344.15901270
+ Elec: -171.16137878 Total: -3344.15901270
+ Elec: -171.16137878 Total: -3344.15901270
+ Step:    6 E: -3344.159012701711 G:     3.32e-04 step_size:     1.46e-04 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06409060
+ MOCluster   2 E =-56.06416187
+ MOCluster   3 E =-50.55277181
+ MOCluster   4 E =-50.55382527
+ MOCluster   5 E =-50.55407856
+ CMF-CI Curr: Elec -171.16137881 Total -3344.15901273
+ CMF-CI Energy: -3344.15901273 | Change: RDM: 2.7e-04 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06409055
+ MOCluster   2 E =-56.06416182
+ MOCluster   3 E =-50.55277177
+ MOCluster   4 E =-50.55382523
+ MOCluster   5 E =-50.55407852
+ CMF-CI Curr: Elec -171.16137881 Total -3344.15901273
+ CMF-CI Energy: -3344.15901273 | Change: RDM: 5.9e-07 Energy 2.7e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06409056
+ MOCluster   2 E =-56.06416183
+ MOCluster   3 E =-50.55277177
+ MOCluster   4 E =-50.55382524
+ MOCluster   5 E =-50.55407852
+ CMF-CI Curr: Elec -171.16137881 Total -3344.15901273
+ CMF-CI Energy: -3344.15901273 | Change: RDM: 1.8e-08 Energy -1.4e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06409056
+ MOCluster   2 E =-56.06416183
+ MOCluster   3 E =-50.55277177
+ MOCluster   4 E =-50.55382524
+ MOCluster   5 E =-50.55407852
+ CMF-CI Curr: Elec -171.16137881 Total -3344.15901273
+ CMF-CI Energy: -3344.15901273 | Change: RDM: 2.1e-11 Energy -4.5e-13
+
+*CMF-CI: Elec -171.16137881 Total -3344.15901273
+ Energy per Iteration:
+ Elec: -171.16137881 Total: -3344.15901273
+ Elec: -171.16137881 Total: -3344.15901273
+ Elec: -171.16137881 Total: -3344.15901273
+ Elec: -171.16137881 Total: -3344.15901273
+ Step:    7 E: -3344.159012731969 G:     1.73e-04 step_size:     7.06e-05 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408810
+ MOCluster   2 E =-56.06415938
+ MOCluster   3 E =-50.55277650
+ MOCluster   4 E =-50.55382997
+ MOCluster   5 E =-50.55408326
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.4e-04 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408809
+ MOCluster   2 E =-56.06415936
+ MOCluster   3 E =-50.55277648
+ MOCluster   4 E =-50.55382996
+ MOCluster   5 E =-50.55408324
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.8e-07 Energy -1.8e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408809
+ MOCluster   2 E =-56.06415937
+ MOCluster   3 E =-50.55277648
+ MOCluster   4 E =-50.55382996
+ MOCluster   5 E =-50.55408324
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 8.4e-09 Energy 0.0e+00
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408809
+ MOCluster   2 E =-56.06415937
+ MOCluster   3 E =-50.55277648
+ MOCluster   4 E =-50.55382996
+ MOCluster   5 E =-50.55408324
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 9.8e-12 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:    8 E: -3344.159012740161 G:     9.02e-05 step_size:     3.62e-05 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408756
+ MOCluster   2 E =-56.06415884
+ MOCluster   3 E =-50.55277793
+ MOCluster   4 E =-50.55383141
+ MOCluster   5 E =-50.55408469
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 7.3e-05 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408756
+ MOCluster   2 E =-56.06415884
+ MOCluster   3 E =-50.55277792
+ MOCluster   4 E =-50.55383140
+ MOCluster   5 E =-50.55408469
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.4e-07 Energy 2.3e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408756
+ MOCluster   2 E =-56.06415884
+ MOCluster   3 E =-50.55277792
+ MOCluster   4 E =-50.55383140
+ MOCluster   5 E =-50.55408469
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 4.2e-09 Energy 1.8e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408756
+ MOCluster   2 E =-56.06415884
+ MOCluster   3 E =-50.55277792
+ MOCluster   4 E =-50.55383140
+ MOCluster   5 E =-50.55408469
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 5.0e-12 Energy -4.5e-13
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:    9 E: -3344.159012742384 G:     4.71e-05 step_size:     1.88e-05 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408739
+ MOCluster   2 E =-56.06415866
+ MOCluster   3 E =-50.55277852
+ MOCluster   4 E =-50.55383200
+ MOCluster   5 E =-50.55408529
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 3.8e-05 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408738
+ MOCluster   2 E =-56.06415866
+ MOCluster   3 E =-50.55277851
+ MOCluster   4 E =-50.55383200
+ MOCluster   5 E =-50.55408529
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 7.4e-08 Energy 1.4e-12
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408738
+ MOCluster   2 E =-56.06415866
+ MOCluster   3 E =-50.55277851
+ MOCluster   4 E =-50.55383200
+ MOCluster   5 E =-50.55408529
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.2e-09 Energy 9.1e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408738
+ MOCluster   2 E =-56.06415866
+ MOCluster   3 E =-50.55277851
+ MOCluster   4 E =-50.55383200
+ MOCluster   5 E =-50.55408529
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.6e-12 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   10 E: -3344.159012742991 G:     2.46e-05 step_size:     9.81e-06 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408730
+ MOCluster   2 E =-56.06415858
+ MOCluster   3 E =-50.55277881
+ MOCluster   4 E =-50.55383229
+ MOCluster   5 E =-50.55408558
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.0e-05 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408730
+ MOCluster   2 E =-56.06415858
+ MOCluster   3 E =-50.55277880
+ MOCluster   4 E =-50.55383229
+ MOCluster   5 E =-50.55408558
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 3.9e-08 Energy 9.1e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408730
+ MOCluster   2 E =-56.06415858
+ MOCluster   3 E =-50.55277881
+ MOCluster   4 E =-50.55383229
+ MOCluster   5 E =-50.55408558
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.1e-09 Energy 0.0e+00
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 4
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408730
+ MOCluster   2 E =-56.06415858
+ MOCluster   3 E =-50.55277881
+ MOCluster   4 E =-50.55383229
+ MOCluster   5 E =-50.55408558
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.4e-12 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   11 E: -3344.159012743155 G:     1.28e-05 step_size:     5.12e-06 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408725
+ MOCluster   2 E =-56.06415853
+ MOCluster   3 E =-50.55277896
+ MOCluster   4 E =-50.55383245
+ MOCluster   5 E =-50.55408573
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.0e-05 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408725
+ MOCluster   2 E =-56.06415853
+ MOCluster   3 E =-50.55277896
+ MOCluster   4 E =-50.55383244
+ MOCluster   5 E =-50.55408573
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.0e-08 Energy 0.0e+00
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408725
+ MOCluster   2 E =-56.06415853
+ MOCluster   3 E =-50.55277896
+ MOCluster   4 E =-50.55383244
+ MOCluster   5 E =-50.55408573
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 6.0e-10 Energy 0.0e+00
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   12 E: -3344.159012743201 G:     6.70e-06 step_size:     2.67e-06 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408723
+ MOCluster   2 E =-56.06415850
+ MOCluster   3 E =-50.55277904
+ MOCluster   4 E =-50.55383253
+ MOCluster   5 E =-50.55408581
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 5.5e-06 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408722
+ MOCluster   2 E =-56.06415850
+ MOCluster   3 E =-50.55277904
+ MOCluster   4 E =-50.55383252
+ MOCluster   5 E =-50.55408581
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.1e-08 Energy 0.0e+00
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408722
+ MOCluster   2 E =-56.06415850
+ MOCluster   3 E =-50.55277904
+ MOCluster   4 E =-50.55383252
+ MOCluster   5 E =-50.55408581
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 3.1e-10 Energy 4.5e-13
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   13 E: -3344.159012743214 G:     3.50e-06 step_size:     1.40e-06 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408721
+ MOCluster   2 E =-56.06415849
+ MOCluster   3 E =-50.55277908
+ MOCluster   4 E =-50.55383257
+ MOCluster   5 E =-50.55408585
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.8e-06 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408721
+ MOCluster   2 E =-56.06415849
+ MOCluster   3 E =-50.55277908
+ MOCluster   4 E =-50.55383257
+ MOCluster   5 E =-50.55408585
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 5.5e-09 Energy -4.5e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408721
+ MOCluster   2 E =-56.06415849
+ MOCluster   3 E =-50.55277908
+ MOCluster   4 E =-50.55383257
+ MOCluster   5 E =-50.55408585
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.7e-10 Energy 4.5e-13
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   14 E: -3344.159012743217 G:     1.83e-06 step_size:     7.29e-07 
+
+ ------------------------------------------ 
+ CMF CI Iter: 1
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408720
+ MOCluster   2 E =-56.06415848
+ MOCluster   3 E =-50.55277910
+ MOCluster   4 E =-50.55383259
+ MOCluster   5 E =-50.55408588
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 1.5e-06 Energy -3.3e+03
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 2
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408720
+ MOCluster   2 E =-56.06415848
+ MOCluster   3 E =-50.55277910
+ MOCluster   4 E =-50.55383259
+ MOCluster   5 E =-50.55408588
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 2.9e-09 Energy 9.1e-13
+
+
+ ------------------------------------------ 
+ CMF CI Iter: 3
+ ------------------------------------------ 
+ FCIAnsatz:: #Orbs = 10  #α = 5  #β = 2  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 10  #α = 2  #β = 5  Dimension: 11340    
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ FCIAnsatz:: #Orbs = 6   #α = 3  #β = 3  Dimension: 400      
+ MOCluster   1 E =-56.06408720
+ MOCluster   2 E =-56.06415848
+ MOCluster   3 E =-50.55277910
+ MOCluster   4 E =-50.55383259
+ MOCluster   5 E =-50.55408588
+ CMF-CI Curr: Elec -171.16137882 Total -3344.15901274
+ CMF-CI Energy: -3344.15901274 | Change: RDM: 8.7e-11 Energy -9.1e-13
+
+*CMF-CI: Elec -171.16137882 Total -3344.15901274
+ Energy per Iteration:
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Elec: -171.16137882 Total: -3344.15901274
+ Step:   15 E: -3344.159012743217 G:     9.54e-07   
