@@ -1,0 +1,1224 @@
+NCAS = 38 NCASELEC = 32
+
+Sweep =    0 | Direction =  forward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    173.894 | E =   -3343.1704860672 | DW = 1.74e-07
+
+Sweep =    1 | Direction = backward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    338.436 | E =   -3343.8993573986 | DE = -7.29e-01 | DW = 2.33e-06
+
+Sweep =    2 | Direction =  forward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    468.792 | E =   -3344.1710265517 | DE = -2.72e-01 | DW = 9.57e-06
+
+Sweep =    3 | Direction = backward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    585.466 | E =   -3344.1958366083 | DE = -2.48e-02 | DW = 2.33e-05
+
+Sweep =    4 | Direction =  forward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    691.091 | E =   -3344.1994588968 | DE = -3.62e-03 | DW = 3.22e-05
+
+Sweep =    5 | Direction = backward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    793.068 | E =   -3344.2006266101 | DE = -1.17e-03 | DW = 3.16e-05
+
+Sweep =    6 | Direction =  forward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    893.911 | E =   -3344.2008339336 | DE = -2.07e-04 | DW = 3.64e-05
+
+Sweep =    7 | Direction = backward | Bond dimension =  250 | Noise =  1.00e-04 | Dav threshold =  1.00e-08
+Time elapsed =    992.326 | E =   -3344.2009977271 | DE = -1.64e-04 | DW = 3.32e-05
+
+Sweep =    8 | Direction =  forward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   1235.427 | E =   -3344.2025334397 | DE = -1.54e-03 | DW = 1.00e-06
+
+Sweep =    9 | Direction = backward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   1640.665 | E =   -3344.2038986098 | DE = -1.37e-03 | DW = 8.80e-06
+
+Sweep =   10 | Direction =  forward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   2027.805 | E =   -3344.2042486283 | DE = -3.50e-04 | DW = 1.56e-05
+
+Sweep =   11 | Direction = backward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   2396.957 | E =   -3344.2044020413 | DE = -1.53e-04 | DW = 1.56e-05
+
+Sweep =   12 | Direction =  forward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   2762.640 | E =   -3344.2044856832 | DE = -8.36e-05 | DW = 1.74e-05
+
+Sweep =   13 | Direction = backward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   3123.801 | E =   -3344.2045438972 | DE = -5.82e-05 | DW = 1.66e-05
+
+Sweep =   14 | Direction =  forward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   3484.435 | E =   -3344.2045670343 | DE = -2.31e-05 | DW = 1.79e-05
+
+Sweep =   15 | Direction = backward | Bond dimension =  500 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   3843.177 | E =   -3344.2046019666 | DE = -3.49e-05 | DW = 1.71e-05
+
+Sweep =   16 | Direction =  forward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   4477.923 | E =   -3344.2051439843 | DE = -5.42e-04 | DW = 2.92e-06
+
+Sweep =   17 | Direction = backward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   5378.434 | E =   -3344.2054056475 | DE = -2.62e-04 | DW = 8.26e-06
+
+Sweep =   18 | Direction =  forward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   6243.473 | E =   -3344.2055072489 | DE = -1.02e-04 | DW = 1.12e-05
+
+Sweep =   19 | Direction = backward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   7105.445 | E =   -3344.2055674759 | DE = -6.02e-05 | DW = 1.19e-05
+
+
+Sweep =   20 | Direction =  forward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =    317.227 | E =   -3344.2055543187 | DE = 1.32e-05 | DW = 6.76e-07
+
+Sweep =   21 | Direction = backward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =    744.005 | E =   -3344.2055658611 | DE = -1.15e-05 | DW = 3.20e-07
+
+Sweep =   22 | Direction =  forward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   1053.471 | E =   -3344.2055719953 | DE = -6.13e-06 | DW = 5.50e-07
+
+Sweep =   23 | Direction = backward | Bond dimension =  750 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   1473.340 | E =   -3344.2055792332 | DE = -7.24e-06 | DW = 3.18e-07
+
+Sweep =   24 | Direction =  forward | Bond dimension = 1000 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   2001.081 | E =   -3344.2056785597 | DE = -9.93e-05 | DW = 2.23e-08
+
+Sweep =   25 | Direction = backward | Bond dimension = 1000 | Noise =  1.00e-05 | Dav threshold =  1.00e-08
+Time elapsed =   2766.115 | E =   -3344.2058658275 | DE = -1.87e-04 | DW = 1.33e-07
+
+Sweep =   26 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   3312.689 | E =   -3344.2059701444 | DE = -1.04e-04 | DW = 2.28e-16
+
+Sweep =   27 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   4039.485 | E =   -3344.2060232683 | DE = -5.31e-05 | DW = 2.51e-16
+
+Sweep =   28 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   4555.778 | E =   -3344.2060540553 | DE = -3.08e-05 | DW = 2.58e-16
+
+Sweep =   29 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   5258.915 | E =   -3344.2060735346 | DE = -1.95e-05 | DW = 2.79e-16
+
+Sweep =   30 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   5755.465 | E =   -3344.2060867523 | DE = -1.32e-05 | DW = 1.43e-16
+
+Sweep =   31 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   6443.911 | E =   -3344.2060961907 | DE = -9.44e-06 | DW = 2.95e-16
+
+Sweep =   32 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   6983.362 | E =   -3344.2061032485 | DE = -7.06e-06 | DW = 1.36e-16
+
+Sweep =   33 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   7707.108 | E =   -3344.2061087285 | DE = -5.48e-06 | DW = 3.52e-16
+
+Sweep =   34 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   8224.218 | E =   -3344.2061130725 | DE = -4.34e-06 | DW = 9.75e-17
+
+Sweep =   35 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   8942.254 | E =   -3344.2061165267 | DE = -3.45e-06 | DW = 2.01e-16
+
+Sweep =   36 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   9448.503 | E =   -3344.2061192653 | DE = -2.74e-06 | DW = 1.61e-16
+
+Sweep =   37 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  10148.748 | E =   -3344.2061214537 | DE = -2.19e-06 | DW = 2.74e-16
+
+Sweep =   38 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  10654.619 | E =   -3344.2061232218 | DE = -1.77e-06 | DW = 5.90e-16
+
+Sweep =   39 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  11343.171 | E =   -3344.2061246734 | DE = -1.45e-06 | DW = 2.79e-16
+
+Sweep =   40 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  11841.947 | E =   -3344.2061258868 | DE = -1.21e-06 | DW = 1.17e-16
+
+Sweep =   41 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  12533.525 | E =   -3344.2061269197 | DE = -1.03e-06 | DW = 6.40e-16
+
+Sweep =   42 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  13019.939 | E =   -3344.2061278190 | DE = -8.99e-07 | DW = 1.47e-16
+
+Sweep =   43 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  13706.811 | E =   -3344.2061286166 | DE = -7.98e-07 | DW = 4.00e-16
+
+Sweep =   44 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  14196.894 | E =   -3344.2061293338 | DE = -7.17e-07 | DW = 3.06e-16
+
+Sweep =   45 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  14873.672 | E =   -3344.2061299813 | DE = -6.47e-07 | DW = 3.06e-16
+
+Sweep =   46 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  15357.542 | E =   -3344.2061305685 | DE = -5.87e-07 | DW = 1.54e-16
+
+Sweep =   47 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  16030.998 | E =   -3344.2061310993 | DE = -5.31e-07 | DW = 1.88e-16
+
+Sweep =   48 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  16505.919 | E =   -3344.2061315821 | DE = -4.83e-07 | DW = 3.96e-16
+
+Sweep =   49 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  17183.297 | E =   -3344.2061320228 | DE = -4.41e-07 | DW = 2.14e-16
+
+Sweep =   50 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  17658.556 | E =   -3344.2061324268 | DE = -4.04e-07 | DW = 1.64e-16
+
+Sweep =   51 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  18338.426 | E =   -3344.2061327968 | DE = -3.70e-07 | DW = 3.01e-16
+
+Sweep =   52 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  18810.087 | E =   -3344.2061331350 | DE = -3.38e-07 | DW = 1.27e-16
+
+Sweep =   53 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  19478.470 | E =   -3344.2061334440 | DE = -3.09e-07 | DW = 3.75e-16
+
+Sweep =   54 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  19946.152 | E =   -3344.2061337260 | DE = -2.82e-07 | DW = 1.95e-16
+
+Sweep =   55 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  20608.030 | E =   -3344.2061339837 | DE = -2.58e-07 | DW = 3.13e-16
+
+Sweep =   56 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  21073.911 | E =   -3344.2061342196 | DE = -2.36e-07 | DW = 2.69e-16
+
+Sweep =   57 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  21742.509 | E =   -3344.2061344367 | DE = -2.17e-07 | DW = 4.98e-16
+
+Sweep =   58 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  22207.708 | E =   -3344.2061346362 | DE = -1.99e-07 | DW = 2.23e-16
+
+Sweep =   59 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  22874.960 | E =   -3344.2061348214 | DE = -1.85e-07 | DW = 2.99e-16
+
+Sweep =   60 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  23341.954 | E =   -3344.2061349916 | DE = -1.70e-07 | DW = 1.44e-16
+
+Sweep =   61 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  24010.100 | E =   -3344.2061351511 | DE = -1.60e-07 | DW = 5.18e-16
+
+Sweep =   62 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  24468.232 | E =   -3344.2061352988 | DE = -1.48e-07 | DW = 1.55e-16
+
+Sweep =   63 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  25127.866 | E =   -3344.2061354390 | DE = -1.40e-07 | DW = 2.89e-16
+
+Sweep =   64 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  25583.578 | E =   -3344.2061355710 | DE = -1.32e-07 | DW = 1.78e-16
+
+Sweep =   65 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  26238.624 | E =   -3344.2061356995 | DE = -1.28e-07 | DW = 2.40e-16
+
+Sweep =   66 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  26698.060 | E =   -3344.2061358290 | DE = -1.30e-07 | DW = 1.62e-16
+
+Sweep =   67 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  27344.871 | E =   -3344.2061359663 | DE = -1.37e-07 | DW = 3.83e-16
+
+Sweep =   68 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  27796.489 | E =   -3344.2061361176 | DE = -1.51e-07 | DW = 1.53e-16
+
+Sweep =   69 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  28453.159 | E =   -3344.2061362802 | DE = -1.63e-07 | DW = 3.01e-16
+
+Sweep =   70 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  28905.207 | E =   -3344.2061364364 | DE = -1.56e-07 | DW = 1.45e-16
+
+Sweep =   71 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  29558.964 | E =   -3344.2061365700 | DE = -1.34e-07 | DW = 4.00e-16
+
+Sweep =   72 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  30010.025 | E =   -3344.2061366766 | DE = -1.07e-07 | DW = 2.35e-16
+
+Sweep =   73 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  30657.868 | E =   -3344.2061367639 | DE = -8.72e-08 | DW = 3.82e-16
+
+Sweep =   74 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  31103.380 | E =   -3344.2061368366 | DE = -7.28e-08 | DW = 1.80e-16
+
+Sweep =   75 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  31751.009 | E =   -3344.2061369022 | DE = -6.56e-08 | DW = 2.78e-16
+
+Sweep =   76 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  32194.453 | E =   -3344.2061369609 | DE = -5.88e-08 | DW = 2.22e-16
+
+Sweep =   77 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  32835.339 | E =   -3344.2061370162 | DE = -5.53e-08 | DW = 3.28e-16
+
+Sweep =   78 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  33273.479 | E =   -3344.2061370669 | DE = -5.07e-08 | DW = 1.44e-16
+
+Sweep =   79 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  33919.891 | E =   -3344.2061371159 | DE = -4.89e-08 | DW = 2.30e-16
+
+Sweep =   80 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  34357.310 | E =   -3344.2061371613 | DE = -4.55e-08 | DW = 2.90e-16
+
+Sweep =   81 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  34998.590 | E =   -3344.2061372053 | DE = -4.39e-08 | DW = 2.59e-16
+
+Sweep =   82 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  35432.208 | E =   -3344.2061372455 | DE = -4.02e-08 | DW = 3.27e-16
+
+Sweep =   83 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  36072.382 | E =   -3344.2061372849 | DE = -3.95e-08 | DW = 2.57e-16
+
+ATTENTION: DMRG is not converged to desired tolerance of 1.00e-08
+
+Sweep =    0 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =    544.498 | E =   -3344.2061461683 | DW = 6.45e-19
+
+Sweep =    1 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   1384.424 | E =   -3344.2061731593 | DE = -2.70e-05 | DW = 8.49e-19
+
+Sweep =    2 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   2070.426 | E =   -3344.2062125903 | DE = -3.94e-05 | DW = 8.01e-17
+
+Sweep =    3 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   3026.156 | E =   -3344.2062453172 | DE = -3.27e-05 | DW = 6.68e-17
+
+Sweep =    4 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   3748.423 | E =   -3344.2062664050 | DE = -2.11e-05 | DW = 5.57e-17
+
+Sweep =    5 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   4711.491 | E =   -3344.2062796763 | DE = -1.33e-05 | DW = 1.79e-16
+
+Sweep =    6 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   5418.967 | E =   -3344.2062882853 | DE = -8.61e-06 | DW = 8.73e-17
+
+Sweep =    7 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   6362.981 | E =   -3344.2062940573 | DE = -5.77e-06 | DW = 1.38e-16
+
+Sweep =    8 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =   7204.704 | E =   -3344.2062981965 | DE = -4.14e-06 | DW = 1.27e-16
+
+Sweep =    9 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =   8278.189 | E =   -3344.2063012851 | DE = -3.09e-06 | DW = 3.37e-16
+
+Sweep =   10 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =   9085.852 | E =   -3344.2063036847 | DE = -2.40e-06 | DW = 1.38e-16
+
+Sweep =   11 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  10140.741 | E =   -3344.2063056028 | DE = -1.92e-06 | DW = 3.00e-16
+
+Sweep =   12 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  10941.319 | E =   -3344.2063071706 | DE = -1.57e-06 | DW = 1.78e-16
+
+Sweep =   13 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  11985.547 | E =   -3344.2063084688 | DE = -1.30e-06 | DW = 2.44e-16
+
+Sweep =   14 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  12776.245 | E =   -3344.2063095539 | DE = -1.09e-06 | DW = 1.97e-16
+
+Sweep =   15 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  13810.502 | E =   -3344.2063104687 | DE = -9.15e-07 | DW = 2.98e-16
+
+Sweep =   16 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  14581.798 | E =   -3344.2063112481 | DE = -7.79e-07 | DW = 1.55e-16
+
+Sweep =   17 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  15610.208 | E =   -3344.2063119198 | DE = -6.72e-07 | DW = 1.24e-16
+
+Sweep =   18 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  16369.733 | E =   -3344.2063125055 | DE = -5.86e-07 | DW = 1.34e-16
+
+Sweep =   19 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  17386.363 | E =   -3344.2063130212 | DE = -5.16e-07 | DW = 2.93e-16
+
+Sweep =   20 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  18142.553 | E =   -3344.2063134800 | DE = -4.59e-07 | DW = 1.53e-16
+
+Sweep =   21 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  19150.658 | E =   -3344.2063138936 | DE = -4.14e-07 | DW = 3.40e-16
+
+Sweep =   22 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  19903.196 | E =   -3344.2063142717 | DE = -3.78e-07 | DW = 1.87e-16
+
+Sweep =   23 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  20901.364 | E =   -3344.2063146224 | DE = -3.51e-07 | DW = 1.92e-16
+
+Sweep =   24 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  21638.021 | E =   -3344.2063149509 | DE = -3.29e-07 | DW = 2.76e-16
+
+Sweep =   25 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  22637.519 | E =   -3344.2063152602 | DE = -3.09e-07 | DW = 4.75e-16
+
+Sweep =   26 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  23374.101 | E =   -3344.2063155506 | DE = -2.90e-07 | DW = 9.93e-17
+
+Sweep =   27 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  24372.149 | E =   -3344.2063158220 | DE = -2.71e-07 | DW = 3.34e-16
+
+Sweep =   28 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  25101.317 | E =   -3344.2063160740 | DE = -2.52e-07 | DW = 1.63e-16
+
+Sweep =   29 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-10
+Time elapsed =  26098.933 | E =   -3344.2063163074 | DE = -2.33e-07 | DW = 3.04e-16
+
+
+Sweep =   30 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =    662.581 | E =   -3344.2063165217 | DE = -2.14e-07 | DW = 1.96e-16
+
+Sweep =   31 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   1587.020 | E =   -3344.2063167198 | DE = -1.98e-07 | DW = 3.19e-16
+
+Sweep =   32 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   2248.187 | E =   -3344.2063169014 | DE = -1.82e-07 | DW = 1.58e-16
+
+Sweep =   33 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   3173.598 | E =   -3344.2063170701 | DE = -1.69e-07 | DW = 3.65e-16
+
+Sweep =   34 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   3827.342 | E =   -3344.2063172258 | DE = -1.56e-07 | DW = 1.73e-16
+
+Sweep =   35 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   4754.190 | E =   -3344.2063173717 | DE = -1.46e-07 | DW = 1.79e-16
+
+Sweep =   36 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   5404.835 | E =   -3344.2063175079 | DE = -1.36e-07 | DW = 1.55e-16
+
+Sweep =   37 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   6320.423 | E =   -3344.2063176361 | DE = -1.28e-07 | DW = 4.72e-16
+
+Sweep =   38 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   6970.728 | E =   -3344.2063177559 | DE = -1.20e-07 | DW = 1.28e-16
+
+Sweep =   39 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   7882.088 | E =   -3344.2063178697 | DE = -1.14e-07 | DW = 3.36e-16
+
+Sweep =   40 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   8538.140 | E =   -3344.2063179777 | DE = -1.08e-07 | DW = 1.12e-16
+
+Sweep =   41 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =   9448.769 | E =   -3344.2063180797 | DE = -1.02e-07 | DW = 2.42e-16
+
+Sweep =   42 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  10094.776 | E =   -3344.2063181742 | DE = -9.45e-08 | DW = 1.75e-16
+
+Sweep =   43 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  11009.906 | E =   -3344.2063182639 | DE = -8.98e-08 | DW = 1.96e-16
+
+Sweep =   44 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  11658.191 | E =   -3344.2063183472 | DE = -8.32e-08 | DW = 1.22e-16
+
+Sweep =   45 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  12560.206 | E =   -3344.2063184262 | DE = -7.90e-08 | DW = 3.26e-16
+
+Sweep =   46 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  13204.133 | E =   -3344.2063185003 | DE = -7.41e-08 | DW = 1.25e-16
+
+Sweep =   47 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  14110.661 | E =   -3344.2063185732 | DE = -7.29e-08 | DW = 2.48e-16
+
+Sweep =   48 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  14751.796 | E =   -3344.2063186429 | DE = -6.97e-08 | DW = 3.21e-16
+
+Sweep =   49 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  15650.494 | E =   -3344.2063187116 | DE = -6.88e-08 | DW = 3.76e-16
+
+Sweep =   50 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  16285.660 | E =   -3344.2063187778 | DE = -6.61e-08 | DW = 1.57e-16
+
+Sweep =   51 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  17187.223 | E =   -3344.2063188433 | DE = -6.55e-08 | DW = 3.11e-16
+
+Sweep =   52 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  17821.965 | E =   -3344.2063189065 | DE = -6.32e-08 | DW = 1.13e-16
+
+Sweep =   53 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  18722.907 | E =   -3344.2063189690 | DE = -6.25e-08 | DW = 1.32e-16
+
+Sweep =   54 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  19353.184 | E =   -3344.2063190283 | DE = -5.93e-08 | DW = 1.38e-16
+
+Sweep =   55 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  20251.424 | E =   -3344.2063190879 | DE = -5.96e-08 | DW = 1.78e-16
+
+Sweep =   56 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  20878.625 | E =   -3344.2063191443 | DE = -5.64e-08 | DW = 2.00e-16
+
+Sweep =   57 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  21769.911 | E =   -3344.2063192008 | DE = -5.65e-08 | DW = 4.19e-16
+
+Sweep =   58 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  22395.093 | E =   -3344.2063192554 | DE = -5.45e-08 | DW = 1.59e-16
+
+Sweep =   59 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  23275.769 | E =   -3344.2063193094 | DE = -5.40e-08 | DW = 9.96e-17
+
+Sweep =   60 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  23899.254 | E =   -3344.2063193630 | DE = -5.36e-08 | DW = 2.20e-16
+
+Sweep =   61 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  24775.036 | E =   -3344.2063194165 | DE = -5.35e-08 | DW = 3.24e-16
+
+Sweep =   62 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  25398.296 | E =   -3344.2063194697 | DE = -5.32e-08 | DW = 1.49e-16
+
+Sweep =   63 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  26278.582 | E =   -3344.2063195222 | DE = -5.25e-08 | DW = 3.97e-16
+
+Sweep =   64 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  26903.291 | E =   -3344.2063195741 | DE = -5.18e-08 | DW = 2.27e-16
+
+Sweep =   65 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  27777.122 | E =   -3344.2063196250 | DE = -5.09e-08 | DW = 3.14e-16
+
+Sweep =   66 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  28398.076 | E =   -3344.2063196739 | DE = -4.89e-08 | DW = 1.43e-16
+
+Sweep =   67 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  29269.457 | E =   -3344.2063197209 | DE = -4.70e-08 | DW = 2.80e-16
+
+Sweep =   68 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  29877.771 | E =   -3344.2063197650 | DE = -4.41e-08 | DW = 1.32e-16
+
+Sweep =   69 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  30746.388 | E =   -3344.2063198074 | DE = -4.25e-08 | DW = 2.04e-16
+
+Sweep =   70 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  31354.977 | E =   -3344.2063198474 | DE = -4.00e-08 | DW = 1.28e-16
+
+Sweep =   71 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  32230.539 | E =   -3344.2063198856 | DE = -3.81e-08 | DW = 2.11e-16
+
+Sweep =   72 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  32842.558 | E =   -3344.2063199215 | DE = -3.59e-08 | DW = 1.08e-16
+
+Sweep =   73 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  33718.825 | E =   -3344.2063199559 | DE = -3.44e-08 | DW = 4.33e-16
+
+Sweep =   74 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  34332.271 | E =   -3344.2063199887 | DE = -3.28e-08 | DW = 1.74e-16
+
+Sweep =   75 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  35209.187 | E =   -3344.2063200206 | DE = -3.18e-08 | DW = 4.18e-16
+
+Sweep =   76 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  35817.610 | E =   -3344.2063200502 | DE = -2.96e-08 | DW = 1.68e-16
+
+Sweep =   77 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  36688.135 | E =   -3344.2063200795 | DE = -2.93e-08 | DW = 1.25e-16
+
+Sweep =   78 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  37298.738 | E =   -3344.2063201074 | DE = -2.79e-08 | DW = 3.38e-16
+
+Sweep =   79 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  38174.923 | E =   -3344.2063201349 | DE = -2.75e-08 | DW = 2.31e-16
+
+Sweep =   80 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  38780.695 | E =   -3344.2063201612 | DE = -2.63e-08 | DW = 2.03e-16
+
+Sweep =   81 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  39655.884 | E =   -3344.2063201876 | DE = -2.64e-08 | DW = 2.23e-16
+
+Sweep =   82 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  40259.248 | E =   -3344.2063202127 | DE = -2.51e-08 | DW = 1.26e-16
+
+Sweep =   83 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  41132.938 | E =   -3344.2063202377 | DE = -2.50e-08 | DW = 8.87e-17
+
+Sweep =   84 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  41738.233 | E =   -3344.2063202617 | DE = -2.40e-08 | DW = 1.57e-16
+
+Sweep =   85 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  42615.024 | E =   -3344.2063202858 | DE = -2.41e-08 | DW = 1.55e-16
+
+Sweep =   86 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  43219.277 | E =   -3344.2063203085 | DE = -2.28e-08 | DW = 1.37e-16
+
+Sweep =   87 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  44096.467 | E =   -3344.2063203316 | DE = -2.30e-08 | DW = 2.26e-16
+
+Sweep =   88 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  44703.455 | E =   -3344.2063203537 | DE = -2.21e-08 | DW = 1.78e-16
+
+Sweep =   89 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  45585.061 | E =   -3344.2063203762 | DE = -2.25e-08 | DW = 3.72e-16
+
+Sweep =   90 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  46191.838 | E =   -3344.2063203978 | DE = -2.17e-08 | DW = 1.53e-16
+
+Sweep =   91 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  47060.633 | E =   -3344.2063204193 | DE = -2.15e-08 | DW = 2.71e-16
+
+Sweep =   92 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  47661.369 | E =   -3344.2063204396 | DE = -2.03e-08 | DW = 1.91e-16
+
+Sweep =   93 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  48533.644 | E =   -3344.2063204600 | DE = -2.04e-08 | DW = 2.55e-16
+
+Sweep =   94 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  49134.791 | E =   -3344.2063204791 | DE = -1.91e-08 | DW = 1.92e-16
+
+Sweep =   95 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  50006.627 | E =   -3344.2063204979 | DE = -1.88e-08 | DW = 4.21e-16
+
+Sweep =   96 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  50612.105 | E =   -3344.2063205158 | DE = -1.79e-08 | DW = 1.71e-16
+
+Sweep =   97 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  51479.500 | E =   -3344.2063205330 | DE = -1.71e-08 | DW = 3.14e-16
+
+Sweep =   98 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  52082.055 | E =   -3344.2063205493 | DE = -1.63e-08 | DW = 1.17e-16
+
+Sweep =   99 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  52963.256 | E =   -3344.2063205656 | DE = -1.63e-08 | DW = 2.32e-16
+
+Sweep =  100 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  53565.630 | E =   -3344.2063205810 | DE = -1.54e-08 | DW = 2.60e-16
+
+Sweep =  101 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  54438.614 | E =   -3344.2063205962 | DE = -1.52e-08 | DW = 2.13e-16
+
+Sweep =  102 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  55041.152 | E =   -3344.2063206107 | DE = -1.45e-08 | DW = 2.35e-16
+
+Sweep =  103 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  55918.448 | E =   -3344.2063206255 | DE = -1.48e-08 | DW = 2.62e-16
+
+Sweep =  104 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  56524.826 | E =   -3344.2063206396 | DE = -1.41e-08 | DW = 2.19e-16
+
+Sweep =  105 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  57398.299 | E =   -3344.2063206536 | DE = -1.40e-08 | DW = 2.66e-16
+
+Sweep =  106 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  57998.059 | E =   -3344.2063206670 | DE = -1.34e-08 | DW = 3.39e-16
+
+Sweep =  107 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  58878.306 | E =   -3344.2063206807 | DE = -1.37e-08 | DW = 3.92e-16
+
+Sweep =  108 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  59494.600 | E =   -3344.2063206939 | DE = -1.32e-08 | DW = 2.46e-16
+
+Sweep =  109 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  60378.771 | E =   -3344.2063207072 | DE = -1.33e-08 | DW = 3.07e-16
+
+Sweep =  110 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  60993.199 | E =   -3344.2063207198 | DE = -1.26e-08 | DW = 1.40e-16
+
+Sweep =  111 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  61871.133 | E =   -3344.2063207327 | DE = -1.29e-08 | DW = 1.61e-16
+
+Sweep =  112 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  62490.857 | E =   -3344.2063207454 | DE = -1.27e-08 | DW = 1.19e-16
+
+Sweep =  113 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  63370.890 | E =   -3344.2063207575 | DE = -1.21e-08 | DW = 3.82e-16
+
+Sweep =  114 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  63981.919 | E =   -3344.2063207692 | DE = -1.17e-08 | DW = 1.43e-16
+
+Sweep =  115 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  64867.776 | E =   -3344.2063207811 | DE = -1.18e-08 | DW = 2.17e-16
+
+Sweep =  116 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  65481.390 | E =   -3344.2063207922 | DE = -1.11e-08 | DW = 1.12e-16
+
+Sweep =  117 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  66359.095 | E =   -3344.2063208028 | DE = -1.06e-08 | DW = 2.44e-16
+
+Sweep =  118 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  66973.990 | E =   -3344.2063208135 | DE = -1.07e-08 | DW = 1.09e-16
+
+Sweep =  119 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  67855.644 | E =   -3344.2063208239 | DE = -1.05e-08 | DW = 3.41e-16
+
+Sweep =  120 | Direction =  forward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  68476.103 | E =   -3344.2063208340 | DE = -1.00e-08 | DW = 2.70e-16
+
+Sweep =  121 | Direction = backward | Bond dimension = 1150 | Noise =  0.00e+00 | Dav threshold =  1.00e-09
+Time elapsed =  69351.482 | E =   -3344.2063208438 | DE = -9.83e-09 | DW = 4.84e-16
+
+State-averaged MPS Variational energies =  -3344.2063208438067
+
+Sweep =    0 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   1896.169 | E =   -3344.2063242264 | DW = 2.07e-05
+
+Sweep =    1 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   3486.003 | E =   -3344.2062067009 | DE = 1.18e-04 | DW = 1.46e-05
+
+Sweep =    2 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   5081.613 | E =   -3344.2062155285 | DE = -8.83e-06 | DW = 1.26e-05
+
+Sweep =    3 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   6619.937 | E =   -3344.2062238860 | DE = -8.36e-06 | DW = 1.25e-05
+
+Sweep =    4 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   8205.367 | E =   -3344.2062251293 | DE = -1.24e-06 | DW = 1.23e-05
+
+Sweep =    5 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =   9747.796 | E =   -3344.2062303257 | DE = -5.20e-06 | DW = 1.23e-05
+
+Sweep =    6 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  11328.506 | E =   -3344.2062314500 | DE = -1.12e-06 | DW = 1.21e-05
+
+Sweep =    7 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  12862.117 | E =   -3344.2062346107 | DE = -3.16e-06 | DW = 1.21e-05
+
+Sweep =    8 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  14422.154 | E =   -3344.2062360405 | DE = -1.43e-06 | DW = 1.21e-05
+
+Sweep =    9 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  15960.368 | E =   -3344.2062381027 | DE = -2.06e-06 | DW = 1.20e-05
+
+Sweep =   10 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  17539.463 | E =   -3344.2062390779 | DE = -9.75e-07 | DW = 1.20e-05
+
+Sweep =   11 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  19077.650 | E =   -3344.2062402694 | DE = -1.19e-06 | DW = 1.20e-05
+
+Sweep =   12 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  20651.789 | E =   -3344.2062409138 | DE = -6.44e-07 | DW = 1.20e-05
+
+Sweep =   13 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  22185.296 | E =   -3344.2062421423 | DE = -1.23e-06 | DW = 1.20e-05
+
+Sweep =   14 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  23770.767 | E =   -3344.2062424706 | DE = -3.28e-07 | DW = 1.20e-05
+
+Sweep =   15 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  25307.820 | E =   -3344.2062432433 | DE = -7.73e-07 | DW = 1.20e-05
+
+Sweep =   16 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  26884.430 | E =   -3344.2062434090 | DE = -1.66e-07 | DW = 1.20e-05
+
+Sweep =   17 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  28422.206 | E =   -3344.2062438100 | DE = -4.01e-07 | DW = 1.19e-05
+
+Sweep =   18 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  29980.956 | E =   -3344.2062438946 | DE = -8.45e-08 | DW = 1.19e-05
+
+Sweep =   19 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  31515.879 | E =   -3344.2062444323 | DE = -5.38e-07 | DW = 1.19e-05
+
+Sweep =   20 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  33069.186 | E =   -3344.2062446181 | DE = -1.86e-07 | DW = 1.19e-05
+
+Sweep =   21 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  34596.379 | E =   -3344.2062450118 | DE = -3.94e-07 | DW = 1.19e-05
+
+Sweep =   22 | Direction =  forward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  36151.534 | E =   -3344.2062451918 | DE = -1.80e-07 | DW = 1.19e-05
+
+Sweep =   23 | Direction = backward | Bond dimension = 1000 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  37688.707 | E =   -3344.2062453879 | DE = -1.96e-07 | DW = 1.19e-05
+
+Sweep =   24 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  38894.008 | E =   -3344.2061987499 | DE = 4.66e-05 | DW = 3.73e-05
+
+Sweep =   25 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  39818.700 | E =   -3344.2058266743 | DE = 3.72e-04 | DW = 2.13e-05
+
+Sweep =   26 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  40737.808 | E =   -3344.2058478815 | DE = -2.12e-05 | DW = 1.76e-05
+
+Sweep =   27 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  41625.508 | E =   -3344.2058528591 | DE = -4.98e-06 | DW = 1.73e-05
+
+Sweep =   28 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  42545.036 | E =   -3344.2058536863 | DE = -8.27e-07 | DW = 1.69e-05
+
+Sweep =   29 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  43431.250 | E =   -3344.2058549231 | DE = -1.24e-06 | DW = 1.69e-05
+
+Sweep =   30 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  44342.990 | E =   -3344.2058551778 | DE = -2.55e-07 | DW = 1.67e-05
+
+Sweep =   31 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  45230.879 | E =   -3344.2058558287 | DE = -6.51e-07 | DW = 1.66e-05
+
+Sweep =   32 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  46143.828 | E =   -3344.2058561551 | DE = -3.26e-07 | DW = 1.65e-05
+
+Sweep =   33 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  47033.107 | E =   -3344.2058565274 | DE = -3.72e-07 | DW = 1.64e-05
+
+Sweep =   34 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  47946.516 | E =   -3344.2058565512 | DE = -2.37e-08 | DW = 1.64e-05
+
+Sweep =   35 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  48831.155 | E =   -3344.2058568560 | DE = -3.05e-07 | DW = 1.63e-05
+
+Sweep =   36 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  49741.425 | E =   -3344.2058568315 | DE = 2.45e-08 | DW = 1.63e-05
+
+Sweep =   37 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  50625.022 | E =   -3344.2058570342 | DE = -2.03e-07 | DW = 1.63e-05
+
+Sweep =   38 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  51535.228 | E =   -3344.2058569954 | DE = 3.88e-08 | DW = 1.62e-05
+
+Sweep =   39 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  52426.132 | E =   -3344.2058570969 | DE = -1.01e-07 | DW = 1.62e-05
+
+Sweep =   40 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  53335.037 | E =   -3344.2058572102 | DE = -1.13e-07 | DW = 1.61e-05
+
+Sweep =   41 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  54221.698 | E =   -3344.2058572691 | DE = -5.89e-08 | DW = 1.61e-05
+
+Sweep =   42 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  55135.559 | E =   -3344.2058572168 | DE = 5.23e-08 | DW = 1.61e-05
+
+Sweep =   43 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  56022.390 | E =   -3344.2058575622 | DE = -3.45e-07 | DW = 1.60e-05
+
+Sweep =   44 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  56934.019 | E =   -3344.2058575367 | DE = 2.55e-08 | DW = 1.60e-05
+
+Sweep =   45 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  57825.881 | E =   -3344.2058576976 | DE = -1.61e-07 | DW = 1.60e-05
+
+Sweep =   46 | Direction =  forward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  58737.495 | E =   -3344.2058576901 | DE = 7.55e-09 | DW = 1.60e-05
+
+Sweep =   47 | Direction = backward | Bond dimension =  800 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  59620.658 | E =   -3344.2058577518 | DE = -6.17e-08 | DW = 1.60e-05
+
+Sweep =   48 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  60293.886 | E =   -3344.2057991724 | DE = 5.86e-05 | DW = 5.29e-05
+
+Sweep =   49 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  60791.807 | E =   -3344.2051725335 | DE = 6.27e-04 | DW = 2.85e-05
+
+Sweep =   50 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  61283.950 | E =   -3344.2052045241 | DE = -3.20e-05 | DW = 2.31e-05
+
+Sweep =   51 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  61763.923 | E =   -3344.2052111203 | DE = -6.60e-06 | DW = 2.27e-05
+
+Sweep =   52 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  62244.749 | E =   -3344.2052118310 | DE = -7.11e-07 | DW = 2.22e-05
+
+Sweep =   53 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  62724.912 | E =   -3344.2052132410 | DE = -1.41e-06 | DW = 2.21e-05
+
+Sweep =   54 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  63205.614 | E =   -3344.2052132191 | DE = 2.19e-08 | DW = 2.18e-05
+
+Sweep =   55 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  63685.241 | E =   -3344.2052142242 | DE = -1.01e-06 | DW = 2.17e-05
+
+Sweep =   56 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  64169.861 | E =   -3344.2052143103 | DE = -8.61e-08 | DW = 2.16e-05
+
+Sweep =   57 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  64654.385 | E =   -3344.2052148100 | DE = -5.00e-07 | DW = 2.15e-05
+
+Sweep =   58 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  65138.249 | E =   -3344.2052155476 | DE = -7.38e-07 | DW = 2.13e-05
+
+Sweep =   59 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  65615.632 | E =   -3344.2052158544 | DE = -3.07e-07 | DW = 2.12e-05
+
+Sweep =   60 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  66097.554 | E =   -3344.2052159089 | DE = -5.45e-08 | DW = 2.11e-05
+
+Sweep =   61 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  66575.660 | E =   -3344.2052156629 | DE = 2.46e-07 | DW = 2.09e-05
+
+Sweep =   62 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  67057.690 | E =   -3344.2052156577 | DE = 5.27e-09 | DW = 2.08e-05
+
+Sweep =   63 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  67536.492 | E =   -3344.2052158932 | DE = -2.36e-07 | DW = 2.08e-05
+
+Sweep =   64 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  68020.365 | E =   -3344.2052158936 | DE = -3.84e-10 | DW = 2.07e-05
+
+Sweep =   65 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  68500.761 | E =   -3344.2052161090 | DE = -2.15e-07 | DW = 2.07e-05
+
+Sweep =   66 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  68982.824 | E =   -3344.2052161065 | DE = 2.48e-09 | DW = 2.07e-05
+
+Sweep =   67 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  69456.774 | E =   -3344.2052163467 | DE = -2.40e-07 | DW = 2.07e-05
+
+Sweep =   68 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  69934.325 | E =   -3344.2052163535 | DE = -6.86e-09 | DW = 2.06e-05
+
+Sweep =   69 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  70408.072 | E =   -3344.2052170034 | DE = -6.50e-07 | DW = 2.06e-05
+
+Sweep =   70 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  70887.484 | E =   -3344.2052171311 | DE = -1.28e-07 | DW = 2.06e-05
+
+Sweep =   71 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  71360.402 | E =   -3344.2052177589 | DE = -6.28e-07 | DW = 2.06e-05
+
+Sweep =   72 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  71838.844 | E =   -3344.2052177559 | DE = 3.08e-09 | DW = 2.06e-05
+
+Sweep =   73 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  72311.995 | E =   -3344.2052175072 | DE = 2.49e-07 | DW = 2.04e-05
+
+Sweep =   74 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  72793.282 | E =   -3344.2052175290 | DE = -2.18e-08 | DW = 2.04e-05
+
+Sweep =   75 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  73273.315 | E =   -3344.2052182149 | DE = -6.86e-07 | DW = 2.04e-05
+
+Sweep =   76 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  73755.381 | E =   -3344.2052182242 | DE = -9.33e-09 | DW = 2.04e-05
+
+Sweep =   77 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  74232.023 | E =   -3344.2052182897 | DE = -6.54e-08 | DW = 2.04e-05
+
+Sweep =   78 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  74712.070 | E =   -3344.2052183028 | DE = -1.31e-08 | DW = 2.04e-05
+
+Sweep =   79 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  75187.312 | E =   -3344.2052183304 | DE = -2.76e-08 | DW = 2.03e-05
+
+Sweep =   80 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  75667.767 | E =   -3344.2052183526 | DE = -2.22e-08 | DW = 2.03e-05
+
+Sweep =   81 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  76144.994 | E =   -3344.2052184080 | DE = -5.54e-08 | DW = 2.03e-05
+
+Sweep =   82 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  76627.327 | E =   -3344.2052184518 | DE = -4.38e-08 | DW = 2.03e-05
+
+Sweep =   83 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  77106.061 | E =   -3344.2052185104 | DE = -5.86e-08 | DW = 2.03e-05
+
+Sweep =   84 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  77588.601 | E =   -3344.2052186759 | DE = -1.66e-07 | DW = 2.02e-05
+
+Sweep =   85 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  78063.165 | E =   -3344.2052187022 | DE = -2.63e-08 | DW = 2.02e-05
+
+Sweep =   86 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  78545.597 | E =   -3344.2052187629 | DE = -6.07e-08 | DW = 2.01e-05
+
+Sweep =   87 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  79016.167 | E =   -3344.2052187963 | DE = -3.34e-08 | DW = 2.01e-05
+
+Sweep =   88 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  79494.688 | E =   -3344.2052188141 | DE = -1.78e-08 | DW = 2.01e-05
+
+Sweep =   89 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  79967.171 | E =   -3344.2052188676 | DE = -5.35e-08 | DW = 2.01e-05
+
+Sweep =   90 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  80449.159 | E =   -3344.2052188816 | DE = -1.40e-08 | DW = 2.01e-05
+
+Sweep =   91 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  80923.015 | E =   -3344.2052189407 | DE = -5.91e-08 | DW = 2.01e-05
+
+Sweep =   92 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  81405.138 | E =   -3344.2052189522 | DE = -1.14e-08 | DW = 2.01e-05
+
+Sweep =   93 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  81879.969 | E =   -3344.2052189998 | DE = -4.77e-08 | DW = 2.01e-05
+
+Sweep =   94 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  82363.039 | E =   -3344.2052190090 | DE = -9.20e-09 | DW = 2.01e-05
+
+Sweep =   95 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  82839.191 | E =   -3344.2052190429 | DE = -3.39e-08 | DW = 2.01e-05
+
+Sweep =   96 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  83323.016 | E =   -3344.2052190522 | DE = -9.27e-09 | DW = 2.01e-05
+
+Sweep =   97 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  83798.909 | E =   -3344.2052190945 | DE = -4.23e-08 | DW = 2.01e-05
+
+Sweep =   98 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  84280.856 | E =   -3344.2052191047 | DE = -1.02e-08 | DW = 2.01e-05
+
+Sweep =   99 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  84754.568 | E =   -3344.2052191448 | DE = -4.01e-08 | DW = 2.01e-05
+
+Sweep =  100 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  85237.306 | E =   -3344.2052191581 | DE = -1.33e-08 | DW = 2.01e-05
+
+Sweep =  101 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  85714.910 | E =   -3344.2052191934 | DE = -3.53e-08 | DW = 2.01e-05
+
+Sweep =  102 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  86197.972 | E =   -3344.2052192119 | DE = -1.85e-08 | DW = 2.01e-05
+
+Sweep =  103 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  86672.085 | E =   -3344.2052192325 | DE = -2.07e-08 | DW = 2.01e-05
+
+Sweep =  104 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  87154.012 | E =   -3344.2052192577 | DE = -2.52e-08 | DW = 2.01e-05
+
+Sweep =  105 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  87630.674 | E =   -3344.2052192577 | DE = 2.82e-11 | DW = 2.00e-05
+
+Sweep =  106 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  88115.553 | E =   -3344.2052192887 | DE = -3.10e-08 | DW = 2.00e-05
+
+Sweep =  107 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  88590.768 | E =   -3344.2052192821 | DE = 6.55e-09 | DW = 2.00e-05
+
+Sweep =  108 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  89074.396 | E =   -3344.2052193171 | DE = -3.50e-08 | DW = 2.00e-05
+
+Sweep =  109 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  89549.832 | E =   -3344.2052192391 | DE = 7.80e-08 | DW = 1.99e-05
+
+Sweep =  110 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  90034.837 | E =   -3344.2052192755 | DE = -3.64e-08 | DW = 1.99e-05
+
+Sweep =  111 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  90512.036 | E =   -3344.2052193762 | DE = -1.01e-07 | DW = 1.99e-05
+
+Sweep =  112 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  90998.582 | E =   -3344.2052194057 | DE = -2.95e-08 | DW = 1.99e-05
+
+Sweep =  113 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  91475.253 | E =   -3344.2052194690 | DE = -6.33e-08 | DW = 1.99e-05
+
+Sweep =  114 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  91958.509 | E =   -3344.2052194935 | DE = -2.45e-08 | DW = 1.99e-05
+
+Sweep =  115 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  92433.530 | E =   -3344.2052195324 | DE = -3.89e-08 | DW = 1.99e-05
+
+Sweep =  116 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  92915.440 | E =   -3344.2052195527 | DE = -2.03e-08 | DW = 1.99e-05
+
+Sweep =  117 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  93389.875 | E =   -3344.2052196140 | DE = -6.13e-08 | DW = 2.00e-05
+
+Sweep =  118 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  93873.447 | E =   -3344.2052196292 | DE = -1.52e-08 | DW = 2.00e-05
+
+Sweep =  119 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  94350.590 | E =   -3344.2052196851 | DE = -5.59e-08 | DW = 2.00e-05
+
+Sweep =  120 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  94830.507 | E =   -3344.2052196923 | DE = -7.22e-09 | DW = 2.00e-05
+
+Sweep =  121 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  95306.818 | E =   -3344.2052197398 | DE = -4.75e-08 | DW = 2.00e-05
+
+Sweep =  122 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  95787.194 | E =   -3344.2052197535 | DE = -1.37e-08 | DW = 2.00e-05
+
+Sweep =  123 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  96264.905 | E =   -3344.2052197877 | DE = -3.42e-08 | DW = 2.00e-05
+
+Sweep =  124 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  96747.006 | E =   -3344.2052197967 | DE = -9.01e-09 | DW = 2.00e-05
+
+Sweep =  125 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  97222.771 | E =   -3344.2052198203 | DE = -2.36e-08 | DW = 2.00e-05
+
+Sweep =  126 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  97700.636 | E =   -3344.2052198280 | DE = -7.67e-09 | DW = 2.00e-05
+
+Sweep =  127 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  98174.587 | E =   -3344.2052198463 | DE = -1.83e-08 | DW = 2.00e-05
+
+Sweep =  128 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  98654.316 | E =   -3344.2052198549 | DE = -8.59e-09 | DW = 2.00e-05
+
+Sweep =  129 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  99130.939 | E =   -3344.2052198722 | DE = -1.73e-08 | DW = 2.00e-05
+
+Sweep =  130 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed =  99612.011 | E =   -3344.2052198812 | DE = -8.98e-09 | DW = 2.00e-05
+
+Sweep =  131 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 100087.073 | E =   -3344.2052199007 | DE = -1.95e-08 | DW = 2.00e-05
+
+Sweep =  132 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 100566.455 | E =   -3344.2052199096 | DE = -8.93e-09 | DW = 2.00e-05
+
+Sweep =  133 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 101041.165 | E =   -3344.2052199331 | DE = -2.35e-08 | DW = 2.00e-05
+
+Sweep =  134 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 101519.458 | E =   -3344.2052199418 | DE = -8.68e-09 | DW = 2.00e-05
+
+Sweep =  135 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 101993.879 | E =   -3344.2052199710 | DE = -2.92e-08 | DW = 2.00e-05
+
+Sweep =  136 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 102472.402 | E =   -3344.2052199794 | DE = -8.44e-09 | DW = 2.00e-05
+
+Sweep =  137 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 102947.194 | E =   -3344.2052200156 | DE = -3.62e-08 | DW = 2.00e-05
+
+Sweep =  138 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 103429.899 | E =   -3344.2052200277 | DE = -1.21e-08 | DW = 2.00e-05
+
+Sweep =  139 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 103905.496 | E =   -3344.2052200688 | DE = -4.10e-08 | DW = 2.00e-05
+
+Sweep =  140 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 104387.455 | E =   -3344.2052200782 | DE = -9.39e-09 | DW = 2.00e-05
+
+Sweep =  141 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 104863.675 | E =   -3344.2052201277 | DE = -4.96e-08 | DW = 2.00e-05
+
+Sweep =  142 | Direction =  forward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 105347.685 | E =   -3344.2052201364 | DE = -8.68e-09 | DW = 2.00e-05
+
+Sweep =  143 | Direction = backward | Bond dimension =  600 | Noise =  0.00e+00 | Dav threshold =  1.00e-08
+Time elapsed = 105823.182 | E =   -3344.2052202298 | DE = -9.34e-08 | DW = 2.00e-05
+
+[[-3344.20632423]
+ [-3344.2062067 ]
+ [-3344.20621553]
+ [-3344.20622389]
+ [-3344.20622513]
+ [-3344.20623033]
+ [-3344.20623145]
+ [-3344.20623461]
+ [-3344.20623604]
+ [-3344.2062381 ]
+ [-3344.20623908]
+ [-3344.20624027]
+ [-3344.20624091]
+ [-3344.20624214]
+ [-3344.20624247]
+ [-3344.20624324]
+ [-3344.20624341]
+ [-3344.20624381]
+ [-3344.20624389]
+ [-3344.20624443]
+ [-3344.20624462]
+ [-3344.20624501]
+ [-3344.20624519]
+ [-3344.20624539]
+ [-3344.20619875]
+ [-3344.20582667]
+ [-3344.20584788]
+ [-3344.20585286]
+ [-3344.20585369]
+ [-3344.20585492]
+ [-3344.20585518]
+ [-3344.20585583]
+ [-3344.20585616]
+ [-3344.20585653]
+ [-3344.20585655]
+ [-3344.20585686]
+ [-3344.20585683]
+ [-3344.20585703]
+ [-3344.205857  ]
+ [-3344.2058571 ]
+ [-3344.20585721]
+ [-3344.20585727]
+ [-3344.20585722]
+ [-3344.20585756]
+ [-3344.20585754]
+ [-3344.2058577 ]
+ [-3344.20585769]
+ [-3344.20585775]
+ [-3344.20579917]
+ [-3344.20517253]
+ [-3344.20520452]
+ [-3344.20521112]
+ [-3344.20521183]
+ [-3344.20521324]
+ [-3344.20521322]
+ [-3344.20521422]
+ [-3344.20521431]
+ [-3344.20521481]
+ [-3344.20521555]
+ [-3344.20521585]
+ [-3344.20521591]
+ [-3344.20521566]
+ [-3344.20521566]
+ [-3344.20521589]
+ [-3344.20521589]
+ [-3344.20521611]
+ [-3344.20521611]
+ [-3344.20521635]
+ [-3344.20521635]
+ [-3344.205217  ]
+ [-3344.20521713]
+ [-3344.20521776]
+ [-3344.20521776]
+ [-3344.20521751]
+ [-3344.20521753]
+ [-3344.20521821]
+ [-3344.20521822]
+ [-3344.20521829]
+ [-3344.2052183 ]
+ [-3344.20521833]
+ [-3344.20521835]
+ [-3344.20521841]
+ [-3344.20521845]
+ [-3344.20521851]
+ [-3344.20521868]
+ [-3344.2052187 ]
+ [-3344.20521876]
+ [-3344.2052188 ]
+ [-3344.20521881]
+ [-3344.20521887]
+ [-3344.20521888]
+ [-3344.20521894]
+ [-3344.20521895]
+ [-3344.205219  ]
+ [-3344.20521901]
+ [-3344.20521904]
+ [-3344.20521905]
+ [-3344.20521909]
+ [-3344.2052191 ]
+ [-3344.20521914]
+ [-3344.20521916]
+ [-3344.20521919]
+ [-3344.20521921]
+ [-3344.20521923]
+ [-3344.20521926]
+ [-3344.20521926]
+ [-3344.20521929]
+ [-3344.20521928]
+ [-3344.20521932]
+ [-3344.20521924]
+ [-3344.20521928]
+ [-3344.20521938]
+ [-3344.20521941]
+ [-3344.20521947]
+ [-3344.20521949]
+ [-3344.20521953]
+ [-3344.20521955]
+ [-3344.20521961]
+ [-3344.20521963]
+ [-3344.20521969]
+ [-3344.20521969]
+ [-3344.20521974]
+ [-3344.20521975]
+ [-3344.20521979]
+ [-3344.2052198 ]
+ [-3344.20521982]
+ [-3344.20521983]
+ [-3344.20521985]
+ [-3344.20521985]
+ [-3344.20521987]
+ [-3344.20521988]
+ [-3344.2052199 ]
+ [-3344.20521991]
+ [-3344.20521993]
+ [-3344.20521994]
+ [-3344.20521997]
+ [-3344.20521998]
+ [-3344.20522002]
+ [-3344.20522003]
+ [-3344.20522007]
+ [-3344.20522008]
+ [-3344.20522013]
+ [-3344.20522014]
+ [-3344.20522023]]
+BOND DIMS         =  [1000 1000 1000 1000 1000 1000  800  800  800  800  800  800  600  600
+  600  600  600  600  600  600  600  600  600  600  600  600  600  600
+  600  600  600  600  600  600  600  600]
+Discarded Weights =  [1.24616791e-05 1.20628152e-05 1.19894400e-05 1.19846822e-05
+ 1.18800766e-05 1.18768034e-05 1.72681160e-05 1.66078774e-05
+ 1.63491312e-05 1.62048401e-05 1.60365397e-05 1.59705782e-05
+ 2.26628068e-05 2.16919349e-05 2.12100787e-05 2.07607453e-05
+ 2.06507147e-05 2.05930626e-05 2.03841527e-05 2.03454994e-05
+ 2.02811386e-05 2.01438043e-05 2.01268922e-05 2.01143461e-05
+ 2.00984398e-05 2.00708887e-05 2.00064533e-05 1.99270641e-05
+ 1.99432115e-05 1.99560240e-05 1.99559140e-05 1.99513048e-05
+ 1.99505054e-05 1.99541659e-05 1.99611296e-05 1.99724820e-05]
+Energies          =  [-3344.20622389 -3344.20623461 -3344.20624027 -3344.20624324
+ -3344.20624443 -3344.20624539 -3344.20585286 -3344.20585583
+ -3344.20585686 -3344.2058571  -3344.20585756 -3344.20585775
+ -3344.20521112 -3344.20521422 -3344.20521585 -3344.20521589
+ -3344.20521635 -3344.20521776 -3344.20521821 -3344.20521833
+ -3344.20521851 -3344.2052188  -3344.20521894 -3344.20521904
+ -3344.20521914 -3344.20521923 -3344.20521928 -3344.20521938
+ -3344.20521953 -3344.20521969 -3344.20521979 -3344.20521985
+ -3344.2052199  -3344.20521997 -3344.20522007 -3344.20522023]
+DMRG energy (extrapolated) = -3344.207760474463612 +/-    0.0003030173
