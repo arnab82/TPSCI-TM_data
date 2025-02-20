@@ -1,0 +1,12 @@
+To run the Octave script, simply go into one of the two directories
+
+1) horseshoe_complex_data_sfcas/
+2) ni_cubane_data_sfcas/
+
+and type:
+"octave ../heis_nsite_sfcis.m"
+at the command line on a computer with octave installed.
+
+To obtain the BS-DFT J couplings, another script exists in each folder called "bs-dft.m"
+To run, simply go into the folder and type "octave bs-dft.m"
+

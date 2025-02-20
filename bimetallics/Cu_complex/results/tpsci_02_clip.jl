@@ -26,8 +26,14 @@ init_fspace = FermiCG.FockConfig(init_fspace)
 @load "tpsci_out_200.jld2"
 clustered_ham = FermiCG.extract_ClusteredTerms(ints, clusters);
 cluster_ops = FermiCG.compute_cluster_ops(cluster_bases, ints);
-
 FermiCG.add_cmf_operators!(cluster_ops, cluster_bases, ints, d1.a, d1.b);
+FermiCG.clip!(v0a,thresh=1e-5)
+e2a = FermiCG.compute_pt2_energy(v0a, cluster_ops, clustered_ham)
+print_pt2(e2a, nroots)
+FermiCG.clip!(v0a,thresh=2e-5)
+e2a = FermiCG.compute_pt2_energy(v0a, cluster_ops, clustered_ham)
+print_pt2(e2a, nroots)
+
 FermiCG.clip!(v0a,thresh=3e-5)
 e2a = FermiCG.compute_pt2_energy(v0a, cluster_ops, clustered_ham)
 print_pt2(e2a, nroots)
